@@ -1,4 +1,4 @@
-name: Daily Weather Data Pipeline
+name: Daily Dataset Update
 
 on:
   schedule:
