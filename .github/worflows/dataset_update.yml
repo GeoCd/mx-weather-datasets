@@ -1,0 +1,28 @@
+name: Daily Weather Data Pipeline
+
+on:
+  schedule:
+    - cron: '1 12 * * *'  # 00:01 CDMX = 06:01 UTC after main workflow finishes
+  workflow_dispatch:      # for testing
+
+permissions:
+  contents: write 
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull
+          git add clean-data/
+          git add raw-data/
+          git add mexico_station.csv
+          git diff --cached --quiet || git commit -m "chore: daily datasets update $(date +'%Y-%m-%d')"
+          git push
