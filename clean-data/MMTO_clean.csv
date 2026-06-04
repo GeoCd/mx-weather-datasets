@@ -82206,3 +82206,27 @@ DateTime,Station,Code,Country,State,City,Lat_num,Long_num,Elevation,Temperature(
 2026-06-02 21:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,61.0,55.0,82.0,7.0,0.0,22.17,SE,Mostly Cloudy
 2026-06-02 22:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,61.0,55.0,82.0,6.0,0.0,22.19,E,Partly Cloudy
 2026-06-02 23:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,61.0,54.0,77.0,3.0,0.0,22.19,NNE,Mostly Cloudy
+2026-06-03 00:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,59.0,52.0,77.0,8.0,0.0,22.19,E,Mostly Cloudy
+2026-06-03 01:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,57.0,52.0,82.0,6.0,0.0,22.18,S,Mostly Cloudy
+2026-06-03 02:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,54.0,50.0,88.0,6.0,0.0,22.17,SE,Fair
+2026-06-03 03:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,55.0,52.0,88.0,12.0,0.0,22.15,SSE,Fair
+2026-06-03 04:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,54.0,52.0,94.0,6.0,0.0,22.17,ENE,Partly Cloudy
+2026-06-03 05:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,54.0,52.0,94.0,5.0,0.0,22.18,ESE,Mostly Cloudy
+2026-06-03 06:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,55.0,52.0,88.0,5.0,0.0,22.19,E,Partly Cloudy
+2026-06-03 07:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,57.0,54.0,88.0,10.0,0.0,22.2,ESE,Partly Cloudy
+2026-06-03 08:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,62.0,52.0,70.0,2.5,0.0,22.19,CALM,Fair
+2026-06-03 09:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,64.0,52.0,64.0,3.0,0.0,22.19,W,Partly Cloudy
+2026-06-03 10:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,68.0,52.0,56.0,6.5,0.0,22.19,NNW,Mostly Cloudy
+2026-06-03 11:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,68.0,52.0,56.0,6.0,0.0,22.19,WNW,Mostly Cloudy
+2026-06-03 12:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,72.0,50.0,46.0,10.0,0.0,22.17,NNW,Mostly Cloudy
+2026-06-03 13:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,72.0,50.0,46.0,7.0,0.0,22.16,SE,Mostly Cloudy
+2026-06-03 14:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,72.0,54.0,53.0,16.0,0.0,22.13,S,Mostly Cloudy
+2026-06-03 15:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,66.0,57.0,73.0,8.0,0.0,22.13,S,Light Rain with Thunder
+2026-06-03 16:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,63.0,55.0,77.0,5.0,0.0,22.13,SSE,Light Rain with Thunder
+2026-06-03 17:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,64.0,57.0,77.0,2.0,0.0,22.13,E,Cloudy
+2026-06-03 18:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,62.0,55.5,79.5,11.0,0.0,22.13,ESE,Heavy T-Storm
+2026-06-03 19:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,57.0,55.0,94.0,5.5,0.0,22.155,NNE,Light Rain with Thunder
+2026-06-03 20:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,57.0,55.0,94.0,8.0,0.0,22.165,NNE,Thunder
+2026-06-03 21:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,59.0,55.0,88.0,6.0,0.0,22.19,ENE,Light Rain with Thunder
+2026-06-03 22:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,57.0,55.0,94.0,8.0,0.0,22.19,ENE,T-Storm
+2026-06-03 23:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,57.0,54.0,88.0,0.0,0.0,22.195,CALM,Cloudy
