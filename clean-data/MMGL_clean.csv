@@ -82903,3 +82903,27 @@ DateTime,Station,Code,Country,State,City,Lat_num,Long_num,Elevation,Temperature(
 2026-06-28 21:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,68.0,61.0,78.0,2.0,0.0,25.11,WSW,Cloudy
 2026-06-28 22:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,66.0,61.0,83.0,7.0,0.0,25.13,W,Cloudy
 2026-06-28 23:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,64.0,61.0,88.0,6.0,0.0,25.13,W,Mostly Cloudy
+2026-06-29 00:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,64.0,59.0,83.0,0.0,0.0,25.13,CALM,Cloudy
+2026-06-29 01:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,64.0,57.0,77.0,5.0,0.0,25.13,SW,Cloudy
+2026-06-29 02:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,63.0,57.0,82.0,3.0,0.0,25.12,WSW,Cloudy
+2026-06-29 03:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,63.0,59.0,88.0,0.0,0.0,25.12,CALM,Mostly Cloudy
+2026-06-29 04:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,61.0,57.0,88.0,0.0,0.0,25.12,CALM,Mostly Cloudy
+2026-06-29 05:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,59.0,57.0,94.0,0.0,0.0,25.12,CALM,Fair
+2026-06-29 06:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,61.0,59.0,94.0,3.0,0.0,25.12,S,Partly Cloudy
+2026-06-29 07:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,64.0,59.0,83.0,0.0,0.0,25.13,CALM,Partly Cloudy
+2026-06-29 08:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,69.0,61.0,75.5,0.0,0.0,25.13,CALM,Fair
+2026-06-29 09:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,73.0,60.0,63.0,0.0,0.0,25.15,CALM,Fair
+2026-06-29 10:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,77.0,57.0,50.0,3.0,0.0,25.13,SE,Fair
+2026-06-29 11:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,81.0,55.0,42.0,6.0,0.0,25.13,SSW,Partly Cloudy
+2026-06-29 12:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,81.0,57.0,45.0,3.0,0.0,25.12,NE,Mostly Cloudy
+2026-06-29 13:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,82.0,57.0,42.0,5.0,0.0,25.1,S,Mostly Cloudy
+2026-06-29 14:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,82.0,59.0,45.0,7.0,0.0,25.08,SW,Mostly Cloudy
+2026-06-29 15:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,81.0,55.0,42.0,3.0,0.0,25.06,WSW,Mostly Cloudy
+2026-06-29 16:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,82.0,57.0,42.0,10.0,0.0,25.04,SSW,Mostly Cloudy
+2026-06-29 17:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,82.0,54.0,37.0,10.0,0.0,25.03,WSW,Partly Cloudy
+2026-06-29 18:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,72.0,57.0,60.0,15.0,26.0,25.05,W,Mostly Cloudy
+2026-06-29 19:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,70.0,57.0,64.0,5.0,0.0,25.07,WSW,Mostly Cloudy
+2026-06-29 20:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,70.0,59.0,68.0,5.0,0.0,25.08,SSW,Partly Cloudy
+2026-06-29 21:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,70.0,55.0,60.0,0.0,0.0,25.11,CALM,Partly Cloudy
+2026-06-29 22:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,68.0,57.0,68.0,0.0,0.0,25.13,CALM,Mostly Cloudy
+2026-06-29 23:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,68.0,57.0,68.0,0.0,0.0,25.13,CALM,Mostly Cloudy
