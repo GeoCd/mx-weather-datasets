@@ -83091,3 +83091,27 @@ DateTime,Station,Code,Country,State,City,Lat_num,Long_num,Elevation,Temperature(
 2026-07-09 21:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,61.0,52.0,72.0,6.0,0.0,23.17,NE,Mostly Cloudy
 2026-07-09 22:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,61.0,50.0,68.0,5.0,0.0,23.18,ENE,Fair
 2026-07-09 23:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,59.0,50.0,72.0,2.0,0.0,23.18,ENE,Fair
+2026-07-10 00:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,59.0,50.0,72.0,0.0,0.0,23.17,CALM,Fair
+2026-07-10 01:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,59.0,52.0,77.0,2.0,0.0,23.14,WSW,Fair
+2026-07-10 02:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,57.0,52.0,82.0,0.0,0.0,23.12,CALM,Fair
+2026-07-10 03:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,55.0,52.0,88.0,5.0,0.0,23.11,ENE,Fair
+2026-07-10 04:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,54.0,52.0,94.0,7.0,0.0,23.13,E,Fair
+2026-07-10 05:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,54.0,50.0,88.0,0.0,0.0,23.13,CALM,Partly Cloudy
+2026-07-10 06:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,55.0,52.0,88.0,2.0,0.0,23.15,E,Mostly Cloudy
+2026-07-10 07:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,60.0,52.0,74.5,0.0,0.0,23.16,CALM,Mostly Cloudy
+2026-07-10 08:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,64.0,52.0,64.0,5.0,0.0,23.17,E,Mostly Cloudy
+2026-07-10 09:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,68.0,54.0,60.0,2.5,0.0,23.175,CALM,Mostly Cloudy
+2026-07-10 10:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,70.0,54.0,56.0,7.0,0.0,23.17,ESE,Partly Cloudy
+2026-07-10 11:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,73.0,52.0,47.0,7.5,0.0,23.16,E,Partly Cloudy
+2026-07-10 12:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,75.0,50.0,41.0,5.0,0.0,23.13,ENE,Partly Cloudy
+2026-07-10 13:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,77.0,50.0,39.0,6.0,0.0,23.11,E,Mostly Cloudy
+2026-07-10 14:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,77.0,48.0,36.0,6.0,0.0,23.09,ENE,Mostly Cloudy
+2026-07-10 15:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,73.33333333333333,52.0,47.0,10.0,0.0,23.08,E,Light Rain with Thunder
+2026-07-10 16:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,72.0,53.0,51.5,15.5,0.0,23.08,N,Thunder
+2026-07-10 17:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,65.33333333333333,52.0,61.333333333333336,13.333333333333334,7.666666666666667,23.103333333333335,W,Thunder
+2026-07-10 18:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,64.0,51.5,62.75,9.75,0.0,23.127499999999998,WSW,Light Rain with Thunder
+2026-07-10 19:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,64.0,50.0,59.0,7.5,0.0,23.14,W,Light Rain
+2026-07-10 20:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,63.5,52.0,65.5,7.5,0.0,23.145,SSW,Mostly Cloudy
+2026-07-10 21:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,63.0,52.0,68.0,5.0,0.0,23.16,WSW,Partly Cloudy
+2026-07-10 22:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,63.0,52.0,68.0,5.0,0.0,23.17,WNW,Mostly Cloudy
+2026-07-10 23:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,63.0,52.0,68.0,5.0,0.0,23.17,NW,Mostly Cloudy
