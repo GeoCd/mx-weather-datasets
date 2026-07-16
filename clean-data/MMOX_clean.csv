@@ -71508,3 +71508,24 @@ DateTime,Station,Code,Country,State,City,Lat_num,Long_num,Elevation,Temperature(
 2026-07-14 17:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,79.0,59.0,51.0,8.0,0.0,25.05,NW,Partly Cloudy
 2026-07-14 18:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,77.0,59.0,54.0,7.0,0.0,25.06,NNW,Partly Cloudy
 2026-07-14 19:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,72.0,57.0,60.0,7.0,0.0,25.08,NNW,Partly Cloudy
+2026-07-14 20:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,71.2,57.0,61.7,6.75,0.0,25.0845,NNW,Partly Cloudy
+2026-07-14 21:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,70.4,57.0,63.4,6.5,0.0,25.089,NNW,Partly Cloudy
+2026-07-14 22:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,69.6,57.0,65.1,6.25,0.0,25.0935,NNW,Partly Cloudy
+2026-07-14 23:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,68.8,57.0,66.8,6.0,0.0,25.098,NNW,Partly Cloudy
+2026-07-15 00:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,68.0,57.0,68.5,5.75,0.0,25.1025,NNW,Partly Cloudy
+2026-07-15 01:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,67.2,57.0,70.2,5.5,0.0,25.107,NNW,Partly Cloudy
+2026-07-15 05:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,64.0,57.0,77.0,4.5,0.0,25.125,E,Cloudy
+2026-07-15 06:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,64.0,59.0,83.0,6.0,0.0,25.13,NNE,Mostly Cloudy
+2026-07-15 07:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,70.0,59.0,68.0,6.0,0.0,25.14,N,Mostly Cloudy
+2026-07-15 08:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,72.0,59.0,64.0,9.0,0.0,25.13,NW,Partly Cloudy
+2026-07-15 09:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,73.0,57.0,57.0,10.0,0.0,25.12,NW,Partly Cloudy
+2026-07-15 10:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,79.0,59.0,51.0,8.0,0.0,25.11,S,Mostly Cloudy
+2026-07-15 11:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,79.0,57.0,47.0,10.0,24.0,25.09,N,Partly Cloudy
+2026-07-15 12:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,81.0,55.0,42.0,13.0,0.0,25.08,NNW,Partly Cloudy
+2026-07-15 13:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,82.0,57.0,42.0,8.0,0.0,25.06,ENE,Mostly Cloudy
+2026-07-15 14:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,82.0,54.0,37.0,13.0,0.0,25.04,ESE,Mostly Cloudy
+2026-07-15 15:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,82.0,55.0,39.0,14.0,0.0,25.03,ESE,Partly Cloudy
+2026-07-15 16:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,82.0,54.0,37.0,12.0,0.0,25.03,ENE,Partly Cloudy
+2026-07-15 17:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,79.0,54.0,42.0,10.0,0.0,25.03,ENE,Partly Cloudy
+2026-07-15 18:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,77.0,54.0,44.0,15.0,0.0,25.04,NE,Mostly Cloudy
+2026-07-15 19:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,73.0,55.0,53.0,8.0,0.0,25.08,ENE,Mostly Cloudy
