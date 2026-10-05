@@ -85213,3 +85213,27 @@ DateTime,Station,Code,Country,State,City,Lat_num,Long_num,Elevation,Temperature(
 2026-10-03 21:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,64.0,64.0,100.0,0.0,0.0,25.06,CALM,Mostly Cloudy
 2026-10-03 22:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,66.0,66.0,100.0,7.0,0.0,25.07,NE,Partly Cloudy
 2026-10-03 23:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,64.0,64.0,100.0,0.0,0.0,25.07,CALM,Mostly Cloudy
+2026-10-04 00:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,66.0,66.0,100.0,0.0,0.0,25.06,CALM,Mostly Cloudy
+2026-10-04 01:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,64.0,64.0,100.0,3.0,0.0,25.06,E,Mostly Cloudy
+2026-10-04 02:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,64.0,64.0,100.0,3.0,0.0,25.05,SE,Mostly Cloudy
+2026-10-04 03:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,64.0,64.0,100.0,0.0,0.0,25.04,CALM,Mostly Cloudy
+2026-10-04 04:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,63.0,63.0,100.0,0.0,0.0,25.04,CALM,Mostly Cloudy
+2026-10-04 05:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,63.0,63.0,100.0,0.0,0.0,25.06,CALM,Partly Cloudy
+2026-10-04 06:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,63.0,63.0,100.0,0.0,0.0,25.07,CALM,Partly Cloudy
+2026-10-04 07:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,64.0,64.0,100.0,0.0,0.0,25.08,CALM,Partly Cloudy
+2026-10-04 08:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,66.0,66.0,100.0,0.0,0.0,25.1,CALM,Partly Cloudy
+2026-10-04 09:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,72.0,66.0,83.0,0.0,0.0,25.11,CALM,Partly Cloudy
+2026-10-04 10:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,73.0,64.0,73.0,5.0,0.0,25.11,SE,Mostly Cloudy
+2026-10-04 11:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,75.0,64.0,69.0,8.0,0.0,25.09,E,Mostly Cloudy
+2026-10-04 12:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,77.0,63.0,61.0,12.0,0.0,25.06,ESE,Mostly Cloudy
+2026-10-04 13:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,81.0,66.0,61.0,0.0,0.0,25.03,CALM,Mostly Cloudy
+2026-10-04 14:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,79.0,66.0,65.0,5.0,0.0,25.0,NNE,Mostly Cloudy
+2026-10-04 15:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,73.0,64.0,73.0,7.0,0.0,25.0,E,Mostly Cloudy
+2026-10-04 16:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,73.0,64.0,73.0,2.0,0.0,25.0,E,Mostly Cloudy
+2026-10-04 17:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,72.0,64.0,78.0,5.0,0.0,25.01,ENE,Cloudy
+2026-10-04 18:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,70.0,63.0,78.0,0.0,0.0,25.04,CALM,Cloudy
+2026-10-04 19:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,68.0,64.0,88.0,0.0,0.0,25.06,CALM,Cloudy
+2026-10-04 20:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,68.0,64.0,88.0,0.0,0.0,25.08,CALM,Mostly Cloudy
+2026-10-04 21:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,68.0,64.0,88.0,0.0,0.0,25.11,CALM,Mostly Cloudy
+2026-10-04 22:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,68.0,66.0,94.0,0.0,0.0,25.1,CALM,Cloudy
+2026-10-04 23:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,68.0,68.0,100.0,3.0,0.0,25.11,SSW,Cloudy
