@@ -86365,6 +86365,30 @@ DateTime,Station,Code,Country,State,City,Lat_num,Long_num,Elevation,Temperature(
 2026-11-20 21:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,66.0,55.0,68.0,5.0,0.0,25.08,SSW,Partly Cloudy
 2026-11-20 22:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,63.0,55.0,77.0,2.5,0.0,25.09,CALM,Partly Cloudy
 2026-11-20 23:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,63.0,55.0,77.0,5.0,0.0,25.09,W,Mostly Cloudy
+2026-11-21 00:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,61.0,55.0,82.0,0.0,0.0,25.09,CALM,Mostly Cloudy
+2026-11-21 01:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,61.0,55.0,82.0,0.0,0.0,25.09,CALM,Partly Cloudy
+2026-11-21 02:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,59.0,55.0,88.0,0.0,0.0,25.08,CALM,Partly Cloudy
+2026-11-21 03:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,57.0,54.0,88.0,0.0,0.0,25.08,CALM,Partly Cloudy
+2026-11-21 04:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,57.0,54.0,88.0,0.0,0.0,25.08,CALM,Mostly Cloudy
+2026-11-21 05:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,54.0,54.0,100.0,0.0,0.0,25.08,CALM,Mostly Cloudy
+2026-11-21 06:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,54.0,54.0,100.0,0.0,0.0,25.09,CALM,Mostly Cloudy
+2026-11-21 07:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,54.0,54.0,100.0,0.0,0.0,25.1,CALM,Mostly Cloudy
+2026-11-21 08:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,59.0,59.0,100.0,0.0,0.0,25.13,CALM,Mostly Cloudy
+2026-11-21 09:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,66.0,57.0,73.0,0.0,0.0,25.14,CALM,Mostly Cloudy
+2026-11-21 10:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,70.0,55.0,60.0,0.0,0.0,25.14,CALM,Mostly Cloudy
+2026-11-21 11:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,73.0,55.0,53.0,0.0,0.0,25.13,CALM,Mostly Cloudy
+2026-11-21 12:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,75.0,54.0,47.0,0.0,0.0,25.09,CALM,Partly Cloudy
+2026-11-21 13:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,77.0,54.0,44.0,10.0,0.0,25.06,WNW,Mostly Cloudy
+2026-11-21 14:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,77.0,52.0,41.0,8.0,0.0,25.03,WNW,Mostly Cloudy
+2026-11-21 15:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,77.0,54.0,44.0,13.0,0.0,25.03,WNW,Mostly Cloudy
+2026-11-21 16:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,75.0,54.0,47.0,9.0,0.0,25.03,WNW,Cloudy
+2026-11-21 17:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,73.0,54.0,50.0,8.0,0.0,25.03,NW,Cloudy
+2026-11-21 18:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,72.0,55.0,57.0,9.0,0.0,25.05,NNW,Cloudy
+2026-11-21 19:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,70.0,55.0,60.0,9.0,0.0,25.06,NW,Cloudy
+2026-11-21 20:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,66.0,55.0,68.0,6.0,0.0,25.08,W,Cloudy
+2026-11-21 21:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,64.0,55.0,73.0,0.0,0.0,25.09,CALM,Cloudy
+2026-11-21 22:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,64.0,57.0,77.0,0.0,0.0,25.09,CALM,Cloudy
+2026-11-21 23:00:00,MMGL,GDL,Mexico,Jalisco,Guadalajara,20.5167,-103.3167,1528.0,64.0,57.0,77.0,0.0,0.0,25.09,CALM,Cloudy
 2017-01-01 00:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,55.0,43.0,63.0,5.0,0.0,23.09,WSW,Fair
 2017-01-01 01:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,55.0,43.0,63.0,0.0,0.0,23.09,CALM,Partly Cloudy
 2017-01-01 02:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,55.0,43.0,63.0,0.0,0.0,23.08,CALM,Mostly Cloudy
@@ -172655,6 +172679,30 @@ DateTime,Station,Code,Country,State,City,Lat_num,Long_num,Elevation,Temperature(
 2026-11-20 21:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,63.0,39.0,42.0,7.0,0.0,23.12,NNW,Partly Cloudy
 2026-11-20 22:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,63.0,39.0,42.0,3.0,0.0,23.13,WNW,Partly Cloudy
 2026-11-20 23:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,61.0,39.0,45.0,0.0,0.0,23.12,CALM,Fair
+2026-11-21 00:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,57.0,44.0,61.0,1.5,0.0,23.12,CALM,Partly Cloudy
+2026-11-21 01:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,54.0,41.0,62.0,0.0,0.0,23.11,CALM,Fair
+2026-11-21 02:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,52.0,41.0,67.0,3.0,0.0,23.09,NE,Fair
+2026-11-21 03:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,50.0,41.0,71.0,0.0,0.0,23.07,CALM,Fair
+2026-11-21 04:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,50.0,45.0,82.0,0.0,0.0,23.07,CALM,Fair
+2026-11-21 05:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,50.0,43.0,76.0,5.0,0.0,23.08,NNW,Fair
+2026-11-21 06:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,52.0,43.0,71.0,0.0,0.0,23.1,CALM,Fair
+2026-11-21 07:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,52.0,43.0,71.0,7.0,0.0,23.11,ENE,Mostly Cloudy
+2026-11-21 08:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,55.0,43.0,63.0,5.0,0.0,23.13,ENE,Mostly Cloudy
+2026-11-21 09:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,61.0,44.0,53.5,1.5,0.0,23.13,CALM,Mostly Cloudy
+2026-11-21 10:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,66.0,46.0,49.0,3.0,0.0,23.12,CALM,Mostly Cloudy
+2026-11-21 11:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,70.0,44.0,39.0,7.5,0.0,23.105,ENE,Mostly Cloudy
+2026-11-21 12:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,73.0,41.0,31.0,0.0,0.0,23.07,CALM,Mostly Cloudy
+2026-11-21 13:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,73.0,41.0,31.0,9.0,0.0,23.07,E,Mostly Cloudy
+2026-11-21 14:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,73.0,39.0,29.0,8.0,0.0,23.04,NW,Partly Cloudy
+2026-11-21 15:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,73.0,39.0,29.0,3.0,0.0,23.02,SSE,Partly Cloudy
+2026-11-21 16:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,72.0,41.0,33.0,6.0,0.0,23.03,NNE,Mostly Cloudy
+2026-11-21 17:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,71.0,46.0,42.0,13.0,11.5,23.04,ESE,Mostly Cloudy
+2026-11-21 18:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,66.0,48.0,52.0,12.0,23.0,23.055,E,Mostly Cloudy
+2026-11-21 19:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,66.0,48.0,52.0,9.0,0.0,23.08,E,Cloudy
+2026-11-21 20:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,64.0,48.0,56.0,6.0,0.0,23.09,ESE,Mostly Cloudy
+2026-11-21 21:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,64.0,48.0,56.0,8.0,0.0,23.1,ESE,Mostly Cloudy
+2026-11-21 22:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,64.0,48.0,56.0,5.0,0.0,23.11,ESE,Mostly Cloudy
+2026-11-21 23:00:00,MMMX,MEX,Mexico,Mexico City,Mexico city,19.4167,-99.0833,2238.0,63.0,48.0,59.0,3.0,0.0,23.1,S,Mostly Cloudy
 2017-01-01 06:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,50.0,43.0,76.0,4.5,0.0,25.145,N,Fair
 2017-01-01 07:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,54.0,45.0,72.0,5.0,0.0,25.17,NNW,Fair
 2017-01-01 08:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,59.0,45.0,59.0,7.0,0.0,25.18,NNE,Fair
@@ -246900,6 +246948,27 @@ DateTime,Station,Code,Country,State,City,Lat_num,Long_num,Elevation,Temperature(
 2026-11-20 17:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,73.0,54.0,50.0,3.0,0.0,25.03,SSE,Mostly Cloudy
 2026-11-20 18:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,72.0,52.0,50.0,10.0,0.0,25.06,NE,Partly Cloudy
 2026-11-20 19:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,68.0,52.0,56.0,12.0,0.0,25.08,S,Partly Cloudy
+2026-11-20 20:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,66.9,52.0,58.65,11.5,0.0,25.0825,S,Partly Cloudy
+2026-11-20 21:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,65.8,52.0,61.3,11.0,0.0,25.084999999999997,S,Partly Cloudy
+2026-11-20 22:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,64.7,52.0,63.95,10.5,0.0,25.0875,S,Partly Cloudy
+2026-11-20 23:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,63.6,52.0,66.6,10.0,0.0,25.09,S,Partly Cloudy
+2026-11-21 00:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,62.5,52.0,69.25,9.5,0.0,25.092499999999998,S,Partly Cloudy
+2026-11-21 01:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,61.4,52.0,71.9,9.0,0.0,25.095,S,Partly Cloudy
+2026-11-21 05:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,57.0,52.0,82.5,7.0,0.0,25.105,N,Mostly Cloudy
+2026-11-21 06:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,55.0,50.0,82.0,0.0,0.0,25.12,CALM,Partly Cloudy
+2026-11-21 07:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,59.0,54.0,82.0,2.0,0.0,25.13,NW,Partly Cloudy
+2026-11-21 08:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,64.0,54.0,68.0,2.0,0.0,25.14,N,Fair
+2026-11-21 09:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,70.0,54.0,56.0,2.0,0.0,25.14,NNE,Fair
+2026-11-21 10:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,73.0,55.0,53.0,3.0,0.0,25.12,NW,Fair
+2026-11-21 11:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,77.0,55.0,47.0,5.0,0.0,25.09,SSE,Fair
+2026-11-21 12:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,79.0,54.0,42.0,3.0,0.0,25.06,SE,Fair
+2026-11-21 13:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,82.0,54.0,37.0,0.0,0.0,25.03,CALM,Fair
+2026-11-21 14:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,82.0,52.0,35.0,5.0,0.0,25.0,N,Partly Cloudy
+2026-11-21 15:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,82.0,54.0,37.0,3.0,0.0,24.99,SW,Partly Cloudy
+2026-11-21 16:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,81.0,54.0,39.0,6.0,0.0,24.99,SSW,Partly Cloudy
+2026-11-21 17:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,75.0,55.0,50.0,3.0,0.0,25.0,SW,Partly Cloudy
+2026-11-21 18:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,75.0,55.0,50.0,6.0,0.0,25.03,ESE,Mostly Cloudy
+2026-11-21 19:00:00,MMOX,OAX,Mexico,Oaxaca,Oaxaca,17.0,-96.7167,1528.0,72.0,57.0,60.0,6.0,0.0,25.06,W,Mostly Cloudy
 2017-01-01 00:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,41.0,37.0,87.0,0.0,0.0,22.17,CALM,Mist
 2017-01-01 01:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,39.0,36.0,87.0,0.0,0.0,22.17,CALM,Smoke
 2017-01-01 02:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.56670000000001,2576.0,37.666666666666664,36.0,91.0,0.0,0.0,22.163333333333338,CALM,Smoke
@@ -333193,3 +333262,27 @@ DateTime,Station,Code,Country,State,City,Lat_num,Long_num,Elevation,Temperature(
 2026-11-20 21:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,55.0,48.0,77.0,3.0,0.0,22.18,W,Partly Cloudy
 2026-11-20 22:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,54.0,50.0,88.0,2.0,0.0,22.19,NW,Partly Cloudy
 2026-11-20 23:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,54.0,50.0,88.0,6.0,0.0,22.19,WNW,Mostly Cloudy
+2026-11-21 00:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,52.0,48.0,88.0,5.0,0.0,22.17,NW,Mostly Cloudy
+2026-11-21 01:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,48.0,46.0,93.0,2.0,0.0,22.16,N,Partly Cloudy
+2026-11-21 02:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,46.0,46.0,100.0,0.0,0.0,22.15,CALM,Partly Cloudy
+2026-11-21 03:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,46.0,45.0,93.0,0.0,0.0,22.14,CALM,Partly Cloudy
+2026-11-21 04:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,45.0,45.0,100.0,3.0,0.0,22.15,W,Fair
+2026-11-21 05:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,43.0,43.0,100.0,3.0,0.0,22.16,E,Partly Cloudy
+2026-11-21 06:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,43.0,43.0,100.0,5.0,0.0,22.16,SSE,Partly Cloudy
+2026-11-21 07:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,46.0,45.0,93.0,3.0,0.0,22.18,NNE,Mostly Cloudy
+2026-11-21 08:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,50.0,46.0,87.5,1.5,0.0,22.19,CALM,Haze
+2026-11-21 09:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,57.0,48.0,72.0,0.0,0.0,22.19,CALM,Haze
+2026-11-21 10:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,61.0,48.0,63.0,2.0,0.0,22.19,S,Haze
+2026-11-21 11:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,64.0,45.0,49.0,3.0,0.0,22.17,WSW,Mostly Cloudy
+2026-11-21 12:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,66.0,43.0,43.0,2.0,0.0,22.15,S,Mostly Cloudy
+2026-11-21 13:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,64.0,45.0,49.0,7.0,0.0,22.13,NNW,Mostly Cloudy
+2026-11-21 14:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,66.0,43.0,43.0,2.0,0.0,22.11,WSW,Mostly Cloudy
+2026-11-21 15:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,64.0,48.0,56.0,10.0,0.0,22.11,SE,Mostly Cloudy
+2026-11-21 16:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,63.0,48.0,59.0,15.0,0.0,22.11,SSE,Mostly Cloudy
+2026-11-21 17:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,61.0,50.0,68.0,7.0,0.0,22.13,SSE,Mostly Cloudy
+2026-11-21 18:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,59.0,50.0,72.0,5.0,0.0,22.14,NE,Mostly Cloudy
+2026-11-21 19:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,57.0,48.0,72.0,5.0,0.0,22.16,N,Mostly Cloudy
+2026-11-21 20:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,55.0,48.0,77.0,3.0,0.0,22.16,NNW,Partly Cloudy
+2026-11-21 21:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,55.0,52.0,88.0,7.0,0.0,22.18,NW,Partly Cloudy
+2026-11-21 22:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,55.0,52.0,88.0,6.0,0.0,22.18,N,Cloudy
+2026-11-21 23:00:00,MMTO,TLC,Mexico,Mexico,Toluca,19.35,-99.5667,2576.0,54.0,48.0,82.0,0.0,0.0,22.17,CALM,Mostly Cloudy
